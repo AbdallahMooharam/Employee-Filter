@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Employee-Filter/static/css/main.70cd371f.css",
+    "main.js": "/Employee-Filter/static/js/main.9a03540d.js",
+    "static/js/453.a325c9dc.chunk.js": "/Employee-Filter/static/js/453.a325c9dc.chunk.js",
+    "index.html": "/Employee-Filter/index.html",
+    "main.70cd371f.css.map": "/Employee-Filter/static/css/main.70cd371f.css.map",
+    "main.9a03540d.js.map": "/Employee-Filter/static/js/main.9a03540d.js.map",
+    "453.a325c9dc.chunk.js.map": "/Employee-Filter/static/js/453.a325c9dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70cd371f.css",
+    "static/js/main.9a03540d.js"
+  ]
+}
